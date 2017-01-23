@@ -1,3 +1,2 @@
 add feature1.
-edit feature1.
-edit feature1
+delete feature1
