@@ -1,2 +1,3 @@
 * Features
 add feature 2
+edit feature 2
