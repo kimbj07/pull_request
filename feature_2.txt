@@ -1,2 +1,6 @@
 added feature 2
+<<<<<<< HEAD
+added feature 3
+=======
 add feature 3
+>>>>>>> master
