@@ -1,2 +1,2 @@
-added feature.
-edited feature.
+add feature1.
+delete feature1
