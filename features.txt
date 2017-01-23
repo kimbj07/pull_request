@@ -2,4 +2,8 @@
 add feature 2
 edit feature 2
 
+<<<<<<< HEAD
 add feature 3
+=======
+edit feature 2
+>>>>>>> master
